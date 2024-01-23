@@ -8,3 +8,4 @@
 4. [Creando Arrays](./Creando_Arrays.ipynb)
 5. [Shape & Reshape](./Shape_Reshape.ipynb)
 6. [Funciones Principales](./Funciones_Principales.ipynb)
+7. [Copy](./Copy.ipynb)
