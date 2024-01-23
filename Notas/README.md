@@ -10,3 +10,4 @@
 6. [Funciones Principales](./Funciones_Principales.ipynb)
 7. [Copy](./Copy.ipynb)
 8. [Condicionales](./Condiciones.ipynb)
+9. [Operaciones](./Operaciones.ipynb)
