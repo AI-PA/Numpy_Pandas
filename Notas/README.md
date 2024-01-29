@@ -17,3 +17,5 @@
 1. [Series y DataFrames en Pandas](./Pandas/Series_DataFrames.ipynb)
 2. [Leer Archivos CSV y JSON](./Pandas/Read_CSV_JSON.ipynb)
 3. [Filtrado Iloc y Loc](./Pandas/Filtrado_Loc_Iloc.ipynb)
+4. [Agregar o Eliminar valores](./Pandas/Agregar_Eliminar.ipynb)
+5. [Manejo de Valores Vacíos](./Pandas/Manejo_Nulos.ipynb)
