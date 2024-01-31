@@ -21,3 +21,4 @@
 5. [Manejo de Valores Vacíos](./Pandas/Manejo_Nulos.ipynb)
 6. [Condiciones](./Pandas/Condiciones.ipynb)
 7. [Funciones Principales](./Pandas/Funciones_Principales.ipynb)
+8. [Groupby](./Pandas/Groupby.ipynb)
