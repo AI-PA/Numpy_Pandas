@@ -19,3 +19,5 @@
 3. [Filtrado Iloc y Loc](./Pandas/Filtrado_Loc_Iloc.ipynb)
 4. [Agregar o Eliminar valores](./Pandas/Agregar_Eliminar.ipynb)
 5. [Manejo de Valores Vacíos](./Pandas/Manejo_Nulos.ipynb)
+6. [Condiciones](./Pandas/Condiciones.ipynb)
+7. [Funciones Principales](./Pandas/Funciones_Principales.ipynb)
