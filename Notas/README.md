@@ -23,3 +23,4 @@
 7. [Funciones Principales](./Pandas/Funciones_Principales.ipynb)
 8. [Groupby](./Pandas/Groupby.ipynb)
 9. [Merge & Concat](./Pandas/Merge_Concat.ipynb)
+10. [Join](./Pandas/Join.ipynb)
