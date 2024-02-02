@@ -24,3 +24,4 @@
 8. [Groupby](./Pandas/Groupby.ipynb)
 9. [Merge & Concat](./Pandas/Merge_Concat.ipynb)
 10. [Join](./Pandas/Join.ipynb)
+11. [Pivot](./Pandas/Pivot_Melt.ipynb)
