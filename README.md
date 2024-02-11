@@ -5,3 +5,5 @@ Manipula y transforma grandes cantidades de datos numéricos y en tablas con dos
 Teniendo como objetivo el aprendizaje de estas dos librerías para su aplicación en ciencia de datos y manipulación de datos, dejando como division, las notas y el proyecto donde aplico lo aprendido.
 
 - [Notas](./Notas/README.md)
+- [Proyectos Guiados](./Guided_Project/README.md)
+- [Proyecto Personal](./)
