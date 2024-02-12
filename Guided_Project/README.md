@@ -3,6 +3,7 @@
 Para reforzar conocimiento y que vallan surgiendo dudas y practica llevo 2 proyectos guiados con el objetivo de reafirmar los conocimientos que he aprendido e irlo aplicando poco a poco.
 
 1. [Proyecto Football ETL](./Football_ETL/sp-tutorial.ipynb)
+2. [Proyecto LEGO](./LEGO/main.ipynb)
 
 ## Creditos
 
