@@ -1,0 +1,19 @@
+id pieza,nombreee,SISTEMMAA,repsomnsnañbe,id piezas hermnaa,PAISSS,tiempo procesamiento promedio,demanda,tipo proceso,codigo maquinaa
+28,Motor lineal,3,28,10,12,226,5156632,1,F19161
+29,Bomba de diafragma,2,29,43,12,307,3718128,1,F117194
+30,Interruptor de presión,13,30,7,1,105,6551522,1,S371877
+31,Válvula de alivio,20,31,15,12,617,9051918,1,S175963
+32,Filtro de agua,21,32,35,1,693,8809639,1,S354820
+33,Motor paso a paso,3,33,33,1,592,5168176,1,S213370
+34,Válvula de bola,8,34,44,1,50,3022565,1,S87898
+35,Sensor de flujo,22,35,35,1,365,7072786,1,S343417
+36,Cilindro neumático,23,36,40,4,481,6288214,1,S578961
+37,Manguera de alta presión,24,37,20,5,504,9224027,1,F138462
+38,Sonda de temperatura,4,38,36,6,6,2325963,1,F367782
+39,Transductor de presión,13,39,15,7,283,4453517,1,F119275
+40,Válvula de control direccional,25,40,16,7,5,6661394,1,S238258
+41,Elemento de filtro hidráulico,26,41,29,6,55,6225437,1,S259784
+42,Regulador de presión,20,42,9,1,210,9484466,1,D43567
+43,Compresor de gas,27,43,28,1,470,6128747,1,A51555
+44,Sensor de nivel,16,44,32,1,291,5021131,2,A95101
+45,Válvula de solenoide proporcional,28,45,40,1,123,3792643,2,A568128

@@ -6,6 +6,6 @@ Teniendo como objetivo el aprendizaje de estas dos librerías para su aplicació
 
 - [Notas](./Notas/README.md)
 - [Proyectos Guiados](./Guided_Project/README.md)
-- [Proyecto Personal](./)
+- [Proyecto Personal](./Personal_Project/README.md)
 
-Un que solo se usa por el momento Numpy y Pandas, dejo el [environment](./environment.yml) en caso de ser necesario
+Un que solo se usa por el momento Numpy y Pandas, dejo el [environment](./environment.yml) en caso de ser necesario.

@@ -1,0 +1,29 @@
+ID_SISTEMA,SISTEMA_DESC
+1,Sistema de control de procesos
+2,Sistema de bombeo
+3,Sistema de motores eléctricos
+4,Sistema de medición y control de temperatura
+5,Sistema de transmisión de energía mecánica
+6,Sistema de aire comprimido
+7,Sistema de purificación de aire
+8,Sistema de control de fluidos
+9,Sistema de soporte de carga
+10,Sistema de calefacción eléctrica
+11,Sistema de transmisión de energía hidráulica
+12,Sistema de control electrónico
+13,Sistema de medición y control de la presión
+14,Sistema de enfriamiento
+15,Sistema de filtración de combustible
+16,Sistema de medición y control de nivel
+17,Sistema de generación de energía eléctrica
+18,Sistema de medición y control de humedad
+19,Sistema de calefacción de gas
+20,Sistema de control de presión
+21,Sistema de purificación de agua
+22,Sistema de medición y control de flujo
+23,Sistema de transmisión de energía neumática
+24,Sistema de conducción de fluidos a alta presión
+25,Sistema de control hidráulico
+26,Sistema de filtración hidráulica
+27,Sistema de compresión de gas
+28,Sistema de control de fluidos proporcional
